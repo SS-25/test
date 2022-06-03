@@ -8,7 +8,6 @@ struct Team
 }t;
 int main()
 {
-  
   struct Team t[10];
   int i,s1=0,s2=0,s3=0,s4=0,c1=0,c2=0,c3=0,c4=0;  // s1,s2,s3,s4 represents total sum of points of that particular function
   float avg1,avg2,avg3,avg4;                     // c1,c2,c3,c4 are count used for counting the number of matches of that particular function
